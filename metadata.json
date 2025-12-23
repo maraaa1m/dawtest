@@ -1,0 +1,7 @@
+{
+  "name": "daw2",
+  "description": "A high-fidelity platform for discovering and registering for global medical and scientific conferences, symposiums, and workshops.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
